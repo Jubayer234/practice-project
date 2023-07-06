@@ -26,3 +26,14 @@
 .item:hover{
     color: rgb(70, 69, 71);
 }
+.banner-img{
+    width:300px ;
+}
+.banner-container{
+    display: flex;
+    justify-content:space-around;
+    height: 100vh;
+    align-items: center;
+        border: 2px solid gray;
+
+   }
